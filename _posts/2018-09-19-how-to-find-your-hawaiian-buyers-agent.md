@@ -33,4 +33,4 @@ It is also very important that your agent knows your circumstances and what you�
 
 Your buyer’s agent should listen to your needs and wants, and then help educate you on the market conditions. This way, you’ll understand the current inventory levels, interest rates, and more. The right agent should also be able to introduce you to service providers who can assist you throughout the transaction, like home and termite inspectors. Finally, the right agent should be able to guide you through the process from contract to close.
 
-If you have any questions about this, or if you’re interested in speaking with my or a member of my team about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+If you have any questions about this, or if you’re interested in speaking with me or a member of my team about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
