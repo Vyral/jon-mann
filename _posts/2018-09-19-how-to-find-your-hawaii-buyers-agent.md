@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Find Your Hawaiian Buyer’s Agent
-date: 2018-09-19 19:44:24
+title: How to Find Your Hawaii Buyer’s Agent
+date: 2018-09-19 19:44:00
 tags:
   - Real Estate
 excerpt: How do you find a buyer’s agent on Oahu? Let’s take a look.
