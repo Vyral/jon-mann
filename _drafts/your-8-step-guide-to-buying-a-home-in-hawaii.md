@@ -3,6 +3,8 @@ layout: post
 title: Your 8-Step Guide to Buying a Home in Hawaii
 date:
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: >-
   In order to buy a home here in Hawaii, there are eight steps you need to
   follow.
@@ -41,5 +43,3 @@ Here in Hawaii, there are eight specific steps to buying a home:
 **8. Understand Hawaii standard real estate contracts.** We have very unique contracts here in Hawaii, and I’d be happy to help you understand how they work.
 
 In future videos, I’ll discuss how to go through each of these steps, but in the meantime, if you have any other real estate questions or you’re thinking of buying or selling a home, feel free to call or email me anytime. I’d be happy to help you.
-
-&nbsp;
