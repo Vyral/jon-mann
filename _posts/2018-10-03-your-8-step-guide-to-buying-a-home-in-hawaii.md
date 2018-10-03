@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 8-Step Guide to Buying a Home in Hawaii
-date:
+date: 2018-10-03 16:21:30
 tags:
   - Home Buyer Tips
   - Real Estate
