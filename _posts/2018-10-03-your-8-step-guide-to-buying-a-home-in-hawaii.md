@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 8-Step Guide to Buying a Home in Hawaii
-date: 2018-10-03 16:21:30
+date: 2018-10-03 16:21:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -11,7 +11,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jon+Mann/Jon+S.+Mann+Real+Estate-+How+to+Buy+in+Hawaii.mp4
 pullquote: >-
-  You need to know all the different costs of maintaining your home over time,
+  You need to know all the different costs of maintaining your home over time
   because they can be rather substantial.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +24,7 @@ youtube_code: 6IEvyxh3vUA
 
 Here in Hawaii, there are eight specific steps to buying a home:
 
-**1. Find a good local agent.** I’d certainly be happy to help you in this regard, but if not, remember that there are certain questions you need to ask an agent to find whether they’re really qualified to assist you.
+**1. Find a good local agent.** I’d certainly be happy to help you in this regard, but if not, remember that there are certain questions you need to ask an agent to find out whether they’re really qualified to assist you.
 
 **2. Find a good local lender.** Some of the home buying rules are different here than they are on the mainland, so it’s important that you find a local lender.
 
@@ -38,8 +38,8 @@ Here in Hawaii, there are eight specific steps to buying a home:
 
 **6. Understand the Hawaii home inspection process.** This step is key to ensuring that you’re buying a home that’s in good condition and is safe and sound.
 
-**7. Understand the costs of homeownership in Hawaii.** You need to know all the different costs of maintaining your home over time, because they can be rather substantial.
+**7. Understand the costs of homeownership in Hawaii.** You need to know all the different costs of maintaining your home over time because they can be rather substantial.
 
-**8. Understand Hawaii standard real estate contracts.** We have very unique contracts here in Hawaii, and I’d be happy to help you understand how they work.
+**8. Understand Hawaii standard real estate contracts.** We have very unique contracts here in Hawaii and I’d be happy to help you understand how they work.
 
 In future videos, I’ll discuss how to go through each of these steps, but in the meantime, if you have any other real estate questions or you’re thinking of buying or selling a home, feel free to call or email me anytime. I’d be happy to help you.
