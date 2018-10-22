@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 Reasons Why Working With Us Is the Right Choice
-date: 2018-10-19 20:57:56
+date: 2018-10-19 20:57:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sM53qC-y45o
+youtube_code: iLin1NPbn2U
 ---
 
 {% include youtube.html %}
 
 Each week, I’m asked why a person should choose to work with Jon S. Mann Real Estate to help them buy a home in Hawaii. Well, today I want to give you 12 reasons why working with us is the right way to go:
 
-1. **We listen to your needs and wants.** On top of that, we also take time to understand the ‘why’ behind your needs and wants so that we can help you select the right home.&nbsp;
+1. **We listen to your needs and wants.** On top of that, we also take time to understand the ‘why’ behind your needs and wants so that we can help you select the right home. 
 2. **We’ll educate you about current market conditions.** Real estate is locally specific, and there are different conditions in each of the 200+ neighborhoods we have here on the island. We can inform you about what’s going on in any of them.
 3. **We can connect you with lenders** who have proven track records of success. They can help you get a great interest rate and also help you close your home in a timely manner.
 4. **We’ll provide you with a copy of my e-book, “How To Buy A Home In Hawaii.”**
@@ -39,6 +39,6 @@ Each week, I’m asked why a person should choose to work with Jon S. Mann Real 
 
 {% include pullquote.html %}
 
-&nbsp;
+ 
 
 Hopefully, these 12 reasons are good enough for you to understand why Jon S. Mann Real Estate is a great option for you. Don’t hesitate to reach out to us. We’d be happy to help you find a home here on Oahu.
