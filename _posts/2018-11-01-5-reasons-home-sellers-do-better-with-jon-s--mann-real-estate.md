@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons Home Sellers Do Better With Jon S. Mann Real Estate
-date:
+date: 2018-11-01 15:08:29
 tags:
   - Home Seller Tips
   - Real Estate
@@ -33,5 +33,3 @@ Each week, I’m asked why a person should choose to work with Jon S. Mann Real 
 {% include pullquote.html %}
 
 Hopefully, these reasons are good enough for you to understand why Jon S. Mann Real Estate is a great option for you. Don’t hesitate to reach out to us. We’d be happy to speak with you.
-
-&nbsp;
