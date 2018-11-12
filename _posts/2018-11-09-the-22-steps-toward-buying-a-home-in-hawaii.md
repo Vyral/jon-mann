@@ -47,8 +47,6 @@ People have been asking me what they’ll need to be prepared for when buying a 
 21. Do your final walkthrough.
 22. Complete the final recordation.
 
-{% include pullquote.html %}
-
 After all of these steps, **you’ll close on and be able to move into your new home.** If you have any questions or would like more information about any of the steps for buying a home, feel free to reach out to me. I look forward to hearing from you.
 
 &nbsp;
