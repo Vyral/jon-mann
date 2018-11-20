@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking Down the Home Prices in Hawaii
-date: 2018-11-19 21:44:44
+date: 2018-11-19 21:44:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1do1bPgTDnE
+youtube_code: B7BccqE9xxU
 ---
 
 {% include youtube.html %}
