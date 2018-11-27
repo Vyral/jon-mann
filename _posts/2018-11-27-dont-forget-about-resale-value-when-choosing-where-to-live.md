@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget About Resale Value When Choosing Where to Live
-date:
+date: 2018-11-27 21:20:21
 tags:
   - Home Buyer Tips
   - Real Estate
