@@ -36,9 +36,9 @@ No matter how you go about the selection process, there are four questions you�
 
 **1. How long have they been in Hawaii and the lending industry?** Lenders that have lived and worked in Hawaii for any length of time know the geographically-based complications here when it comes to loans, namely with condos. A lender whose focus has been more on the mainland will likely not be as savvy with these complications. So first, find out whether or not they’ve been operating in Hawaii for a number of years.&nbsp;
 
-<br>&nbsp;**2. What will be my closing costs?** You won’t get hard numbers just yet. But consider this to be your potential lender’s audition to prove that they can effectively articulate what costs you’ll incur as far as interest rates, fees, points, etc. Knowing this will be a big step toward making your pick. &nbsp;
+<br>&nbsp;**2. What will my closing costs be?** You won’t get hard numbers just yet. But consider this to be your potential lender’s audition to prove that they can effectively articulate what costs you’ll incur as far as interest rates, fees, points, etc. Knowing this will be a big step toward making your pick. &nbsp;
 
-<br>**3. What type of loan products do they have?** It’ll be advantageous for you to find out what types of loans the potential lender carries, and then identify what loan type you’re looking to apply for—whether they be conventional loans, portfolio loans, FHA loans, or a speciality loan.&nbsp;
+<br>**3. What type of loan products do they have?** It’ll be advantageous for you to find out what types of loans the potential lender carries, and then identify what loan type you’re looking to apply for—whether they be conventional loans, portfolio loans, FHA loans, or a specialty loan.&nbsp;
 
 <br>**4. What can you expect in the process?** Being comfortable with the answer to this question along with feeling confident that throughout the process, your potential lender will expertly communicate, listen, and educate should help make your decision a whole lot easier.&nbsp;
 
