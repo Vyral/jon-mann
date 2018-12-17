@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Facets of the Loan Payment and a Way to Save on Each
-date:
+date: 2018-12-17 22:14:05
 tags:
   - Real Estate
 excerpt: >-
