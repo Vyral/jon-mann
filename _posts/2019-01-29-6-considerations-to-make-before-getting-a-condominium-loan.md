@@ -34,6 +34,6 @@ If you’re getting a loan to purchase a condominium here in Hawaii, here are si
 
 **5. What is the delinquency rate on the homeowners association fees?** If this rate is over 15%, some government-backed loans might not be able to be finalized due to the extra risk implied.
 
-**6. Is the building FHA- or VA-approved?** Not all buildings are approved for FHA or VA loans, so make sure you do your research and find out. Also, keep in mind that these approvals aren’t lifetime approvals. They get renewed or discontinued every three years, so just because someone bought a unit in your building using a VA loan five years ago doesn’t automatically mean you can do the same thing.
+**6. Is the building FHA- or VA-approved?** Not all buildings are approved for FHA or VA loans, so make sure you do your research and find out. Also, keep in mind that these approvals aren’t lifetime approvals. They get renewed or discontinued every three years, so just because someone bought a unit in your building using a VA loan five years ago it doesn’t automatically mean you can do the same thing.
 
 If you have any more questions about getting a loan to purchase a condominium here in Hawaii, don’t hesitate to reach out to me. I’d be happy to help you.
