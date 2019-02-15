@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Renting Vs. Buying a Home in Oahu
-date: 2019-02-14 22:28:05
+title: Renting vs. Buying a Home in Oahu
+date: 2019-02-14 22:28:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -9,7 +9,7 @@ excerpt: >-
   Buying a home has many benefits, but there are some times when renting is a
   better option. Here’s how to decide.
 enclosure:
-pullquote: It’s usually in your best interest to buy a home instead of rent one
+pullquote: It’s usually in your best interest to buy a home instead of rent one.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,11 +19,11 @@ youtube_code: 1kbr__c_7CY
 
 {% include youtube.html %}
 
-I’m often asked whether people should rent a home or buy a home here on Oahu, but there’s no real one-size-fits-all answer: it depends on your specific situation. Generally speaking, it’s usually in your best interest to buy a home instead of rent one, but today we’ll be looking at the benefits of each.
+I’m often asked whether people should rent a home or buy a home here on Oahu, but there’s no real one-size-fits-all answer—it depends on your specific situation. Generally speaking, it’s usually in your best interest to buy a home instead of rent one, but today we’ll be looking at the benefits of each.
 
 **How to find out if you should rent or buy:**
 
-**1. How long do you plan to live in Hawaii?** If you’re only going to be here for six months or a year or two, it may be better to rent. There are a lot of up-front costs for buying a home, and you likely won’t be able to recoup them if you leave after a short time.
+**1. How long do you plan to live in Hawaii?** If you’re only going to be here for six months or a year or two, it may be better to rent. There are a lot of upfront costs for buying a home, and you likely won’t be able to recoup them if you leave after a short time.
 
 <br>**2. Do you have a stable source of income?** If your job situation or income is uncertain, it may be better to rent. It’s much easier to get out of a rental situation than a mortgage.
 
