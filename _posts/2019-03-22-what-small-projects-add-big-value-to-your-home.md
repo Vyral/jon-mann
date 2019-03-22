@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Small Projects Add Big Value to Your Home?
-date:
+date: 2019-03-22 15:25:55
 tags:
   - Real Estate
   - Home Seller Tips
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: lfv4OtrhYr4
 ---
 
 {% include youtube.html %}
