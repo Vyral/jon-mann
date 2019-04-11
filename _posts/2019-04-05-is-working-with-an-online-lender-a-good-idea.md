@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Working With an Online Lender a Good Idea?
-date: 2019-04-05 19:14:30
+date: 2019-04-05 19:14:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: j6sapwCkMsw
+youtube_code: B1LGaDRIFPc
 ---
 
 {% include youtube.html %}
 
 Many clients ask me if they should use one of the online lenders they’ve seen advertised on TV. You know the ones—Quicken Loans, Rocket Mortgage, and so on.
 
-My answer to this question? **Possibly; there are both pros and cons to working with online lenders.&nbsp;**
+My answer to this question? **Possibly; there are both pros and cons to working with online lenders. **
 
 Let’s begin by discussing the pros:
 
@@ -42,4 +42,4 @@ However, there are still downsides to using online lenders:
 
 **To get the best of both worlds, work with a local lender who offers an online application.** This way, you’d get all the convenience of an online application but also the option to ask any questions you have in person. I’d be happy to send you the contact information of a very good lender I work with on a regular basis.
 
-If you have any questions about the differences between online and local lenders, or about real estate in general, don’t hesitate to reach out to me. I’d love to speak with you.<br>&nbsp;
+If you have any questions about the differences between online and local lenders, or about real estate in general, don’t hesitate to reach out to me. I’d love to speak with you.<br>
