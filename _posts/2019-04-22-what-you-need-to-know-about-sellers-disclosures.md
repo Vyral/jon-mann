@@ -48,6 +48,6 @@ From a state perspective, the five-page document highlights all the state’s ru
 * **Termite damage.** It doesn’t get cold enough here in Hawaii to kill off the termites, so there’s always a chance that a home may have sustained some damage.
 * **Whether you’ve made any insurance claims on the home.**
 
-Properly disclosing to your buyers helps set a realistic expectation for the buyers—it allows them to move forward with the transaction in a timely manner with all the facts in mind.
+Properly disclosing to your buyers helps set a realistic expectation for them—it allows them to move forward with the transaction in a timely manner with all the facts in mind.
 
 If you have any questions about seller’s disclosures or anything else to do with real estate, don’t be afraid to reach out to me. I’d love to hear from you.<br>&nbsp;
