@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Looking to Add New Members to Our Team!
-date: 2019-05-07 17:35:43
+date: 2019-05-07 17:35:00
 tags:
 excerpt: >-
   Becoming the newest member of our team here at Jon S. Mann Real Estate could
