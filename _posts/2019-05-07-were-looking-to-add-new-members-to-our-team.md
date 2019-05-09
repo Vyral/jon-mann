@@ -22,7 +22,7 @@ youtube_code: ByVUORhMKKY
 
 I’m asked regularly if we’re hiring, and if you’re wondering the same thing, you’re in luck: Yes, we currently are\! If you’re interested, I’d happily take your call to discuss this opportunity further.&nbsp;
 
-Today I’ll take some time to discuss our company and some of the leading reasons why our team members have chosen to work with us. We’re no strangers to hiring clients either—I actually have two former clients who work for me. We’ve also added people to our team who come from out of state and are transferring their license over to Hawaii.&nbsp;
+Today I’ll take some time to discuss our company and some of the leading reasons why our team members have chosen to work with us. We’re no strangers to hiring clients either—I actually have two former clients who work for me. We’ve also added people to our team who come from out of state and are transferring their licenses over to Hawaii.&nbsp;
 
 There are quite a few reasons you might enjoy working with us, and chief among them is our tiered commission split for experienced agents, which allows you to keep the bulk of what you earn without forfeiting any of it to pay franchise fees.&nbsp;
 
