@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 3 Fears that Haunt All Home Sellers
-date: 2019-08-29 17:19:54
+title: 3 Fears That Haunt All Home Sellers
+date: 2019-08-29 17:19:00
 tags:
 excerpt: >-
   There are three fears in particular that plague today’s home sellers. Learn
