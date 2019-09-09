@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Primary Factors That Influence a Home Sale?
-date: 2019-09-06 18:42:35
+date: 2019-09-06 18:42:00
 tags:
 excerpt: >-
   There are 10 specific things that influence a home sale more than anything
@@ -22,7 +22,7 @@ youtube_code: n8Yf22SL_9M
 
 I’ve been in the real estate business for over 15 years now, and I can confidently say that there are about 10 primary factors that influence the sale of a home. **Four of them are property-specific, two are buyer-specific, two are economy-specific, and the final two are agent-specific.** I’m going to talk about all of them today so that you can understand how these factors apply to you and your property:
 
-**1\. Location.** This is the most important factor. Location, location, location. If your property is located where people want to live, work, or recreate, you’re likely to have a valuable property.
+**1\. Location.** This is the most important factor. Location, location, location. If your property is located where people want to live, work, or recreate, it's likely quite valuable.
 
 **2\. Price.** We all know that overpricing a home is bad because the home might not sell. Underpricing is bad because you can end up leaving a lot of money on the table. If you price at market value, however, with the guidance of a real estate agent, you have a good chance of selling for maximum profit.
 
